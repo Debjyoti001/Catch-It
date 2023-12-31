@@ -12,4 +12,5 @@
 ### 1. Ball speed.
 ### 2. Ball Spawn Interval.
 ### 3. Ball Spawn distance from player position.
-
+## Development problems:
+### Beginning to understand functionalities but struggled heavily today with implementing a simple mechanic, The dropping spheres are somehow being collision triggered way above the player object's plane and are being destroyed.
