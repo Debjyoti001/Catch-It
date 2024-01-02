@@ -12,7 +12,9 @@
 ### 1. Ball speed.
 ### 2. Ball Spawn Interval.
 ### 3. Ball Spawn distance from player position.
-## Current bugs:
+### Current bugs:
 ### Beginning to understand functionalities but struggled heavily today with implementing a simple mechanic, The dropping spheres are somehow facing a collision triggered way above the player object's plane and are being destroyed.
 ## Day 3 & 4 (24-1-2)
 ### Worked on the previous bugs and continuously iterated through Debugging to fix some of the ball movement issues. Current problems include spacing out the ball spawn areas and collision. Documentation recorded in Playtest folder.
+### Current bugs:
+### Balls dropping through floor and stopping at some plane below the player now. Collision not occuring with player. I suspect it has something to do with the syntax and game object naming across the 2 different scripts uses for the game.
