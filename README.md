@@ -18,3 +18,5 @@
 ### Worked on the previous bugs and continuously iterated through Debugging to fix some of the ball movement issues. Current problems include spacing out the ball spawn areas and collision. Documentation recorded in Playtest folder.
 ### Current bugs:
 ### Balls dropping through floor and stopping at some plane below the player now. Collision not occuring with player. I suspect it has something to do with the syntax and game object naming across the 2 different scripts uses for the game.
+## Day 5 (24-1-3)
+### All collision bugs fixed. The spheres are now appropriately destroyed upon touching the cube as well as the AR plane. Next on the agenda are adding health mechanic, slowing down ball descent speed and some basic UI.
